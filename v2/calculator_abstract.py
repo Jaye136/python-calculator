@@ -91,7 +91,7 @@ while finish == False:
 
     else:
         print("Input values invalid!")
-        print("The first part be one of: +, -, *, /, **")
+        print("The first part must be one of: +, -, *, /, **")
         print("The second part must be a valid rational number.")
 
 
